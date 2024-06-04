@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fa-solid {
+    font-size: 14px;
+}
+
+hr {
+    width: 90%;
+    margin: 1.5rem auto 1.2rem auto;
+}
+
+.font-bold {
+    font-weight: 630;
+    color: #4f5151;
+}
+
+.text-list {
+    margin-top: 0;
+}
+
+.a-new-list {
+    text-decoration: none;
+    color: #212529;
+}
+
+.list-group-item {
+    border: none;
+}
+
+.badge{
+    background-color: #d1eaed;
+    color: #4f5151;
+    padding: auto;
+}
+
+bgColor{
+    background-color: #ebebeb;
+}
+
+.gapCol {
+    row-gap: 10px;
+}
